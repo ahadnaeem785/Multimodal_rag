@@ -62,6 +62,7 @@ Create a `.env` file based on `.env.example` and add your Google API Key:
 
 ```env
 GOOGLE_API_KEY=your_google_api_key_here
+HUGGINGFACEHUB_API_TOKEN=your_huggingface_api_token_here
 ```
 
 ---
