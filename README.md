@@ -2,6 +2,12 @@
 
 An end-to-end Retrieval-Augmented Generation (RAG) system that processes and answers questions based on content from **PDF documents** and **MP4 videos**. It provides rich, context-aware responses with citations such as page numbers and video timestamps.
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/93c1e0fc-43f6-47f8-a9ac-9a83dbaa924c
+
+
+
 ## 🚀 Features
 
 * Upload and process PDF and MP4 files
