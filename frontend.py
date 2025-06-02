@@ -1,10 +1,8 @@
-# === Updated Streamlit Frontend ===
-
 import streamlit as st
 import requests
 from pathlib import Path
 import base64
-import fitz  # PyMuPDF
+import fitz 
 
 API_URL = "http://localhost:8000"
 
