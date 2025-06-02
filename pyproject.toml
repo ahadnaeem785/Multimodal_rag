@@ -1,0 +1,31 @@
+[project]
+name = "multimodal-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chroma>=0.2.0",
+    "chromadb>=1.0.11",
+    "einops>=0.8.1",
+    "fastapi>=0.115.9",
+    "faster-whisper>=1.1.1",
+    "fitz>=0.0.1.dev2",
+    "langchain>=0.3.25",
+    "langchain-chroma>=0.2.4",
+    "langchain-community>=0.3.24",
+    "langchain-core>=0.3.62",
+    "langchain-google-genai>=2.1.5",
+    "langchain-groq>=0.3.2",
+    "langchain-huggingface>=0.2.0",
+    "moviepy>=2.2.1",
+    "opencv-python-headless>=4.11.0.86",
+    "pdfplumber>=0.11.6",
+    "pymupdf>=1.26.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.0",
+    "python-multipart>=0.0.20",
+    "sentence-transformers>=4.1.0",
+    "streamlit>=1.45.1",
+    "uvicorn>=0.34.2",
+]
